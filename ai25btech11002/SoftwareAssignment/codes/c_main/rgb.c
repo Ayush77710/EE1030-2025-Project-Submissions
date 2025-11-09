@@ -1,5 +1,5 @@
 #define STB_IMAGE_IMPLEMENTATION
-#include "stb_image.h"
+#include "../c_libs/stb_image.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
